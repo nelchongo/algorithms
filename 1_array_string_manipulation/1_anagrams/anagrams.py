@@ -1,4 +1,7 @@
-def anagrams(string_1: str, string_2: str) -> bool:
+def anagrams(string_list: list[str]) -> bool:
+    string_1 = string_list[0].replace(" ", "")
+    string_2 = string_list[1].replace(" ", "")
+
     if (len(string_1) == len(string_2)):
         compare:dict = {}
         for n in range(0, len(string_1)):
