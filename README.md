@@ -24,14 +24,14 @@ Numeric List:
    - Sort Colors
 
 2. Bit Manipulation
-   - Compute XOR of Two Numbers
+   - Compute XOR of Two Numbers ✅
    - Count Set Bits in an Integer
    - Count Total Set Bits in All Numbers from 1 to N
    - Find Single Number in an Array (except one appears only once)
    - Find the Parity of a Number
    - Gray Code
    - Power of Two
-   - Reverse Bits in an Integer
+   - Reverse Bits in an Integer ✅
    - Swap Bits in a Number
    - Implement Bitwise AND, OR, XOR
 
