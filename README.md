@@ -48,7 +48,7 @@ Numeric List:
    - Rod Cutting Problem
 
 4. Greedy Algorithms
-   - Activity Selection Problem
+   - Activity Selection Problem ✅
    - Coin Change Problem (Greedy Approach) ✅
    - Fractional Knapsack Problem
    - Huffman Coding

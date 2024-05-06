@@ -8,4 +8,4 @@ class TestClass:
             try:
                 assert self.function(n['input']) == n['expected']
             except AssertionError:
-                print("Assertion Error: Anagrams test check failed for: {}".format(n))
+                print("Assertion Error: Anagrams on {} check failed for: {}".format(key, n))
