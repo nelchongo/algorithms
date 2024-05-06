@@ -49,7 +49,7 @@ Numeric List:
 
 4. Greedy Algorithms
    - Activity Selection Problem
-   - Coin Change Problem (Greedy Approach)
+   - Coin Change Problem (Greedy Approach) ✅
    - Fractional Knapsack Problem
    - Huffman Coding
    - Interval Scheduling Problem
