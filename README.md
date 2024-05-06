@@ -37,7 +37,7 @@ Numeric List:
 
 3. Dynamic Programming
    - 0/1 Knapsack Problem
-   - Coin Change Problem
+   - Coin Change Problem ✅
    - Edit Distance
    - Fibonacci Sequence
    - Longest Common Subsequence
