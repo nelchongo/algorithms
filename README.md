@@ -39,7 +39,7 @@ Numeric List:
    - 0/1 Knapsack Problem
    - Coin Change Problem ✅
    - Edit Distance
-   - Fibonacci Sequence
+   - Fibonacci Sequence ✅
    - Longest Common Subsequence
    - Longest Increasing Subsequence
    - Longest Palindromic Subsequence
