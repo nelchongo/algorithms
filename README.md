@@ -6,7 +6,7 @@ This project is for me to solve some common Algorithms problems: This problems w
 - **Array and String Manipulation**
   - Check if Two Strings are Anagrams ✅
   - Determine if a String is a Palindrome ✅
-  - Find Duplicates in an Array
+  - Find Duplicates in an Array ✅
   - Find the Longest Substring Without Repeating Characters
   - Implement atoi (String to Integer) function
   - Implement strstr (Substring Search)
