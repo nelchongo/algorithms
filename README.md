@@ -75,10 +75,10 @@ Numeric List:
    - Calculate Exponentiation (e^x)
    - Calculate Pi using Monte Carlo Method
    - Calculate Square Root without Using Libraries
-   - Fibonacci Sequence
-   - Finding Prime Numbers
+   - Fibonacci Sequence ✅
+   - Finding Prime Numbers 
    - Find GCD and LCM of Two Numbers
-   - Find the Nth Fibonacci Number
+   - Find the Nth Fibonacci Number ✅
    - Probability of a Dice Game
    - Calculating Factorials
    - Implement Power Function
