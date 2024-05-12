@@ -3,3 +3,4 @@
 *egg-info
 *dist
 generated_data.sql
+.DS_Store

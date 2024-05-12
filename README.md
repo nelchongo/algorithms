@@ -74,7 +74,7 @@ Numeric List:
 6. Mathematical and Probability Problems
    - Calculate Exponentiation (e^x)
    - Calculate Pi using Monte Carlo Method
-   - Calculate Square Root without Using Libraries
+   - Calculate Square Root without Using Libraries ✅
    - Fibonacci Sequence ✅
    - Finding Prime Numbers 
    - Find GCD and LCM of Two Numbers
